@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#FirstDiv{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    text-align: right;
+    padding-right: 50px;
+    
+  
+}
+
+#FirstDiv a{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 120px;
+    text-decoration: none;
+    margin-top: 50%;
+    text-align: left;
+    
+}
+
+#FirstDiv b{
+    text-align: right;
+    
+    color: rgba(255, 255, 255, 0.55);
+    
+}
+
+
+
+#SecondDiv{
+    width: 100%;
+    height: 300px;
+    background-color: #0d6efd;
+    text-align: center;
+    color: #fff;
+    padding-top: 70px;
+    
+}
+
+#SecondDiv1 h1{
+    padding-top:  350px;
+    font-size: 70px;
+    text-align: center;
+}
+
+#SecondDiv p{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#SecondDiv a{
+    border: 2px solid  #0d6efd;;
+    border-radius: 5px;
+    background-color: #fff;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 10px 10px;
+}
+
+#ThirdDiv{
+    width: 100%;
+    height: 15rem;
+    padding-left: 20%;
+    margin-top: 200px;
+}
+
+#ThirdDiv h2{
+    font-size: calc(1.325rem + 0.9vw);
+    margin-top: 30px;
+
+}
+
+#ThirdDiv p{
+    font-size: 1.25rem;
+   
+}
+
+#ThirdDiv .P2{
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+#ThirdDiv ul{
+    font-size: 20px;
+}
+
+#FourtdDiv{
+    width: 100%;
+    height: 350px;
+    padding-left: 20%;
+    margin-top: 100px;
+    
+    background-color:#E4A866
+    
+    
+
+
+}
+
+#FourtdDiv h2{
+    font-size: calc(1.325rem + 0.9vw);
+}
+
+#FourtdDiv p{
+    font-size: 20px ;
+    font-weight: 300px;
+
+}
+
+#FiveDiv{
+    width: 100%;
+    height: 300px;
+   padding-left: 20%;
+    margin-top: 80px;
+}
+
+#FiveDiv h2{
+    font-size: calc(1.325rem + 0.9vw);
+}
+
+#FiveDiv p{
+    
+        font-size: 20px ;
+        font-weight: 300px;
+    
+    
+}
+
+#SixDiv{
+    width: 100%;
+    height: 75px;
+    background-color: #212529;
+    text-align: center;
+    padding-top: 2rem;
+    color: #F0E9EA;
+    font-size: 18px;
+}
